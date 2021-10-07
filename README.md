@@ -14,7 +14,7 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 <!--   [![GitHub Sponsors](https://img.shields.io/github/sponsors/C91F37?label=GH%20sponsors&style=flat)](https://github.com/sponsors/C91F37) -->
 
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com/en-us/windows/windows-11)
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com/en-us/windows/windows-11)
   [![OS:iOS15](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/ios/ios-15/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-magenta?style=flat-square&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
