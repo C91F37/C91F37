@@ -1,6 +1,7 @@
 ### Hi there 👋
+My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. 🥐
 <img src="https://raw.githubusercontent.com/C91F37/C91F37/main/Hello.gif"/>
-- My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. 🥐
+
 - 📫 How to reach me: [e-mail](mailto:edmund@gmx.se) / [LinkedIn](https://www.linkedin.com/in/edmund-s-87a2511a3/)
 <div align="center">
   
