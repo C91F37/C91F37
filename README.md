@@ -23,4 +23,8 @@ My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. ð
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C91F37&layout=compact" />
 </a>
-<img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/C91F37/count.svg" />
+</p>
