@@ -27,5 +27,7 @@ My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. ð
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/C91F37/count.svg" />
+</p>
+<p align="center>
   <img src="https://raw.githubusercontent.com/C91F37/C91F37/main/PoweredByNEXTSTEP.gif" />
 </p>
