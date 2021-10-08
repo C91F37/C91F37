@@ -23,7 +23,8 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=C91F37&count_private=true&show_icons=true&theme=tokyonight" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=C91F37&count_private=true&show_icons=true&theme=tokyonight" /> -->
+  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=C91F37" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C91F37&theme=tokyonight" />
