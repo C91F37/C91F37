@@ -5,11 +5,9 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [e-mail](mailto:edmund@gmx.se) / [LinkedIn](https://www.linkedin.com/in/edmund-s-87a2511a3/)
-
-
+<img src="https://raw.githubusercontent.com/C91F37/C91F37/main/e%40CASPER-3_~%202021-10-07%2023-33-15.gif"/>
 <div align="center">
 <!--   [![GitHub Sponsors](https://img.shields.io/github/sponsors/C91F37?label=GH%20sponsors&style=flat)](https://github.com/sponsors/C91F37) -->
-  [![alt text](https://github.com/C91F37/C91F37/blob/main/e%40CASPER-3_~%202021-10-07%2023-33-15.gif)]
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com/en-us/windows/windows-11)
   [![OS:iOS15](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/ios/ios-15/)
