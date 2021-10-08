@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
-You have reached ✨Edmund Shi✨'s GitHub profile.
 <img src="https://raw.githubusercontent.com/C91F37/C91F37/main/Hello.gif"/>
 
 - 💬 Ask me about anything!
@@ -25,3 +23,4 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C91F37&layout=compact" />
 </a>
+<img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
