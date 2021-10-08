@@ -8,7 +8,6 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 
 
 <div align="center">
-  Welcome, Visitor <img align="center" https://profile-counter.glitch.me/C91F37/count.svg/> !!
   ![Counter](https://visitor-badge.glitch.me/badge?page_id=C91F37.visitor-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/C91F37?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 <!--   [![GitHub Sponsors](https://img.shields.io/github/sponsors/C91F37?label=GH%20sponsors&style=flat)](https://github.com/sponsors/C91F37) -->
@@ -21,7 +20,7 @@ You have reached ✨Edmund Shi✨'s GitHub profile.
 
   [![email](https://img.shields.io/badge/Email-edmund@gmx.se-red?style=flat-square&logo=gmail)](mailto:edmund@gmx.se)
 </div>
-
+<img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=C91F37&count_private=true&show_icons=true&theme=tokyonight" /> -->
   <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=C91F37" />
