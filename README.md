@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
 You have reached ✨Edmund Shi✨'s GitHub profile.
-![alt text](https://github.com/C91F37/C91F37/blob/main/e%40CASPER-3_~%202021-10-07%2023-33-15.gif "Hello.gif")
+![alt text](https://github.com/C91F37/C91F37/blob/main/e%40CASPER-3_~%202021-10-07%2023-33-15.gif)
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [e-mail](mailto:edmund@gmx.se) / [LinkedIn](https://www.linkedin.com/in/edmund-s-87a2511a3/)
