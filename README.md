@@ -1,11 +1,10 @@
 ### Hi there 👋
 <img align="center" src="https://profile-counter.glitch.me/C91F37/count.svg" />
 You have reached ✨Edmund Shi✨'s GitHub profile.
-
+<img src="https://raw.githubusercontent.com/C91F37/C91F37/main/Hello.gif"/>
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [e-mail](mailto:edmund@gmx.se) / [LinkedIn](https://www.linkedin.com/in/edmund-s-87a2511a3/)
-<img src="https://raw.githubusercontent.com/C91F37/C91F37/main/e%40CASPER-3_~%202021-10-07%2023-33-15.gif"/>
 <div align="center">
 <!--   [![GitHub Sponsors](https://img.shields.io/github/sponsors/C91F37?label=GH%20sponsors&style=flat)](https://github.com/sponsors/C91F37) -->
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
