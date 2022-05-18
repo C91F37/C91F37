@@ -13,7 +13,7 @@ My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. ð
   [![OS:iOS15](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/ios/ios-15/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-magenta?style=flat-square&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
-  [![email](https://img.shields.io/badge/Email-edmund@gmx.se-red?style=flat-square&logo=gmail)](mailto:edmund@gmx.fr)
+  [![email](https://img.shields.io/badge/Email-edmund@gmx.fr-red?style=flat-square&logo=gmail)](mailto:edmund@gmx.fr)
 </div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
