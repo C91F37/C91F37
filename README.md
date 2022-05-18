@@ -11,7 +11,7 @@ My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. ð
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com/en-us/windows/windows-11)
   [![OS:iOS15](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/ios/ios-15/)
-  [![OS:macOS 12.3.1](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/macos/monterey/)
+<!--   [![OS:macOS 12.3.1](https://img.shields.io/badge/OS-iOS%2015-white?style=flat-square&logo=apple)](https://www.apple.com/uk/macos/monterey/) -->
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-magenta?style=flat-square&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
   [![email](https://img.shields.io/badge/Email-edmund@gmx.fr-red?style=flat-square&logo=gmail)](mailto:edmund@gmx.fr)
