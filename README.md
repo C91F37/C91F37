@@ -5,7 +5,6 @@ My name is Edmund Shi. I am a software engineer living near Vancouver, Canada. ð
 - ðŸ“« How to reach me: [e-mail](mailto:edmund@gmx.fr) / [LinkedIn](https://www.linkedin.com/in/edmund-s-87a2511a3/)
 <div align="center">
   
-  ![Counter](https://visitor-badge.glitch.me/badge?page_id=C91F37.visitor-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/C91F37?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 <!--   [![GitHub Sponsors](https://img.shields.io/github/sponsors/C91F37?label=GH%20sponsors&style=flat)](https://github.com/sponsors/C91F37) -->
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
